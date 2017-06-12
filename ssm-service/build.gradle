@@ -1,0 +1,7 @@
+group 'com.cs'
+version '1.0-SNAPSHOT'
+
+dependencies{
+    //依赖于dao
+    compile project(":ssm-dao")
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="ssm-common_main" target="1.8" />
+      <module name="ssm-common_test" target="1.8" />
+      <module name="ssm-controller_main" target="1.8" />
+      <module name="ssm-controller_test" target="1.8" />
+      <module name="ssm-dao_main" target="1.8" />
+      <module name="ssm-dao_test" target="1.8" />
+      <module name="ssm-entity_main" target="1.8" />
+      <module name="ssm-entity_test" target="1.8" />
+      <module name="ssm-service_main" target="1.8" />
+      <module name="ssm-service_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

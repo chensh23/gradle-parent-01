@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-parent-01.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-parent-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-common.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-common.iml" group="ssm-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-common/ssm-common_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-common/ssm-common_main.iml" group="ssm-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-common/ssm-common_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-common/ssm-common_test.iml" group="ssm-common" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-controller.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-controller.iml" group="ssm-controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-controller/ssm-controller_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-controller/ssm-controller_main.iml" group="ssm-controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-controller/ssm-controller_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-controller/ssm-controller_test.iml" group="ssm-controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-dao/ssm-dao.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-dao/ssm-dao.iml" group="ssm-dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-dao/ssm-dao_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-dao/ssm-dao_main.iml" group="ssm-dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-dao/ssm-dao_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-dao/ssm-dao_test.iml" group="ssm-dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-entity/ssm-entity.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-entity/ssm-entity.iml" group="ssm-entity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-entity/ssm-entity_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-entity/ssm-entity_main.iml" group="ssm-entity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-entity/ssm-entity_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-entity/ssm-entity_test.iml" group="ssm-entity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-service.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-service.iml" group="ssm-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-service/ssm-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-service/ssm-service_main.iml" group="ssm-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ssm-service/ssm-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ssm-service/ssm-service_test.iml" group="ssm-service" />
+    </modules>
+  </component>
+</project>

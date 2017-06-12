@@ -1,0 +1,40 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : com.cs : ssm-controller-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/ssm-controller/build/libs/exploded/ssm-controller-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/ssm-controller/build/libs/exploded/ssm-controller-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ssm-controller_main/web/Web Gradle : ssm-controller-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ssm-controller_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/ssm-controller/build/resources/main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="com.cs-ssm-entity-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="ssm-entity_main" />
+            <element id="dir-copy" path="$PROJECT_DIR$/ssm-entity/build/resources/main" />
+          </element>
+          <element id="archive" name="com.cs-ssm-common-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="ssm-common_main" />
+            <element id="dir-copy" path="$PROJECT_DIR$/ssm-common/build/resources/main" />
+          </element>
+          <element id="archive" name="com.cs-ssm-dao-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="ssm-dao_main" />
+            <element id="dir-copy" path="$PROJECT_DIR$/ssm-dao/build/resources/main" />
+          </element>
+          <element id="archive" name="com.cs-ssm-service-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="ssm-service_main" />
+            <element id="dir-copy" path="$PROJECT_DIR$/ssm-service/build/resources/main" />
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
